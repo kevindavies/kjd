@@ -5,11 +5,9 @@
 /* TEAM */
   Managing and Creative Director & Designer: Kevin Davies
   Site: kjd.me
-  Twitter: kevindavies
-  Location: Oxford
+  Location: Southbourne
 
 
 /* SITE */
   Standards: HTML5, CSS3
-  Components: Modernizr, jQuery
   Software: BBEdit
